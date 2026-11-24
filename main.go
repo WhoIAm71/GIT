@@ -21,7 +21,7 @@ func main() {
 	totalBelanja := hargaSatuan * jumlahBarang
 	uangKembalian := uangDibayar - totalBelanja
 
-	fmt.Printf("Nama barang: %s\n", namaBarang)
-	fmt.Printf("Total belanja: %d\n", totalBelanja)
-	fmt.Printf("Uang kembalian: %d\n", uangKembalian)
+	fmt.Print("Nama barang: %s\n", namaBarang)
+	fmt.Print("Total belanja: %d\n", totalBelanja)
+	fmt.Print("Uang kembalian: %d\n", uangKembalian)
 }
