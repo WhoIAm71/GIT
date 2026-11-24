@@ -1,0 +1,17 @@
+
+# Executable files
+*.exe
+*.out
+*.test
+
+# Go build files
+/bin/
+/build/
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
